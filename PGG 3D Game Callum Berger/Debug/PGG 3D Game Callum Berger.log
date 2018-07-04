@@ -1,0 +1,11 @@
+﻿  Scene.cpp
+c:\users\callum\documents\visual studio 2015\projects\callum berger pgg 3d game\pgg 3d game callum berger\pgg 3d game callum berger\scene.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mesh.cpp
+  Material.cpp
+  Main.cpp
+  GameObject.cpp
+c:\users\callum\documents\visual studio 2015\projects\callum berger pgg 3d game\pgg 3d game callum berger\pgg 3d game callum berger\gameobject.cpp(41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\callum\documents\visual studio 2015\projects\callum berger pgg 3d game\pgg 3d game callum berger\pgg 3d game callum berger\gameobject.cpp(68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  PGG 3D Game Callum Berger.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger PGG 3D Game\PGG 3D Game Callum Berger\Debug\PGG 3D Game Callum Berger.exe
+  PGG 3D Game Callum Berger.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger PGG 3D Game\PGG 3D Game Callum Berger\Debug\PGG 3D Game Callum Berger.pdb (Full PDB)
